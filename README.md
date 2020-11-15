@@ -72,7 +72,8 @@ curl -H "Content-Type: application/json" \
 ****
 код в index.js  
 
-```function csl(elem){
+```
+function csl(elem){
   console.log(elem)
 };
 
